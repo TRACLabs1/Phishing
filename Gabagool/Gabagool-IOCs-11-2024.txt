@@ -74,7 +74,7 @@ pub-11fa11c5a0ad45d8a7bc6b9d65ed776b.r2.dev
 pub-9eb0e3169ff24cb4a033135cd7b20dd5.r2.dev
 pub-a207e2d1688344519c11fc9a88dadbd0.r2.dev
 
-C2 server:
+Gabagool's server:
 
 o365.alnassers.net
 
